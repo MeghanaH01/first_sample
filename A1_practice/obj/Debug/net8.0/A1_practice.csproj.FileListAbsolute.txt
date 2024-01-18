@@ -1,0 +1,14 @@
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.AssemblyInfoInputs.cache
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.AssemblyInfo.cs
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.csproj.CoreCompileInputs.cache
+C:\Users\MEGHANH\source\repos\A1_practice\bin\Debug\net8.0\A1_practice.exe
+C:\Users\MEGHANH\source\repos\A1_practice\bin\Debug\net8.0\A1_practice.deps.json
+C:\Users\MEGHANH\source\repos\A1_practice\bin\Debug\net8.0\A1_practice.runtimeconfig.json
+C:\Users\MEGHANH\source\repos\A1_practice\bin\Debug\net8.0\A1_practice.dll
+C:\Users\MEGHANH\source\repos\A1_practice\bin\Debug\net8.0\A1_practice.pdb
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.dll
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\refint\A1_practice.dll
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.pdb
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\A1_practice.genruntimeconfig.cache
+C:\Users\MEGHANH\source\repos\A1_practice\obj\Debug\net8.0\ref\A1_practice.dll
